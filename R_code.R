@@ -1,5 +1,5 @@
 #map working directory
-path <- "C:/Users/yudhisthirs/Desktop/CRISIL/1.Projects/PD_EAD_LGD/Credit Scoring"
+path <- "../1.Projects/PD_EAD_LGD/Credit Scoring"
 
 #set working directory
 setwd(path)
